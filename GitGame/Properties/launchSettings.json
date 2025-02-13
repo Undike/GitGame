@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GitGame (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "GitGame (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
